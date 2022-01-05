@@ -1,3 +1,50 @@
-h1{
-    color: rebeccapurple;
+body{
+    font-size: 17px;
+    padding: 5px;
+    font-family: 'Poppins', sans-serif;
+}
+.item1{
+    color: salmon;
+}
+p{
+    font-size: 19px;
+}
+.section1{
+    display: flex;
+    padding: 25px;
+}
+.blog-1{
+    width: 50%;
+    margin-left: 2%;
+}
+.blog-1 img{
+    width: 95%;
+    
+}
+.blog-2{
+    color: rgb(255, 255, 255) ;
+    background-image: linear-gradient(rgb(255, 0, 0),rgb(255, 0, 128));
+    text-decoration: none;
+    padding: 10px 20px;
+    margin-left: 2%;
+    width: 700;
+    border-radius: 5px;
+}
+.section2{
+    display: flex;
+}
+.blog-3{
+    width: 100%;
+    padding: 7px;
+}
+.blog-3 img{
+    width: 81%;
+}
+.blog-4{
+    color: rgb(255, 255, 255);
+    background-image: linear-gradient(rgb(0, 204, 255) , rgb(23, 0, 128));
+    text-decoration: none;
+    padding: 10px 20px ;
+    width: 700;
+
 }
